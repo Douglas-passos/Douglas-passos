@@ -1,6 +1,6 @@
 ## Hello Guys 🖖
-🎓 Técnico em Desenvolvimento de Sistemas
-📚 2/5 Superior em Análise e Desenvolvimento de Sistemas
+<p>🎓 Técnico em Desenvolvimento de Sistemas</p>
+<p>📚 2/5 Superior em Análise e Desenvolvimento de Sistemas</p>
 
 
 <div>
